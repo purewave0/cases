@@ -24,7 +24,7 @@ Interface inicial:
 
 ![Interface inicial](./1-inicio.png)
 
-Após clicar em Calcular:
+Após inserir dados e clicar em Calcular:
 
 ![Resultados](./2-resultado.png)
 
