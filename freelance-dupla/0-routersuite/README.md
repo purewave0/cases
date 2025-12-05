@@ -12,7 +12,7 @@ Ferramenta de scan que o cliente nos pediu para automatizar:
 
 ![Ferramenta](./0-ferramenta.png)
 
-Depois de escanear, é necessário configurar cada roteador encontrado.
+Depois de escaneados, os scripts configuram cada roteador encontrado.
 
 Modelos de roteadores trabalhados. Cada checkmark verde é um script customizado em
 python. Checkmark azuis são roteadores que, por possuírem a mesma API, utilizam o
