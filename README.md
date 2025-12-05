@@ -15,7 +15,7 @@ soluções práticas, documentação e suporte.
 Por ser uma equipe pequena, já atuamos juntos em ambas as camadas quando necessário
 para acelerar entregas e resolver bloqueios rapidamente.
 
-[Veja os projetos no diretório **freelance-dupla**.](./freelance-dupla)
+[Veja os projetos no diretório **projetos-freelance**.](./projetos-freelance)
 
 
 ## Projetos pessoais
